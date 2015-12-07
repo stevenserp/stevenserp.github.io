@@ -30,6 +30,6 @@ h2 {
 #contact {
   font-family: 'Stardos Stencil', cursive;
   color: white;
-  background-image: image(Images/city.jpg);
+  background-image: image(city.jpg);
 
 }
