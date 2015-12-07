@@ -39,6 +39,10 @@ h2 {
   height: 300px;
 }
 
+#self {
+  text-align: left;
+}
+
 #city{
   display: block;
 }
