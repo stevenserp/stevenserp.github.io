@@ -40,8 +40,11 @@ h2 {
 #contacts {
   font-family: 'Stardos Stencil', cursive;
   font-size: 26px;
-  background-image: url(Images/city.jpg) repeat-x;
+  display: block;
+  float: none;
+  margin: 20px;
   text-align: center;
+  height: 100px;
 }
 
 #city{
