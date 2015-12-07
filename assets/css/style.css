@@ -46,7 +46,7 @@ h2 {
 }
 
 #image {
-  background-image: image(../../Images/crab.jpg);
+  background-image: url("../../Images/crab.jpg");
   display: block;
 }
 
@@ -61,5 +61,5 @@ h2 {
 }
 
 #city{
-  background-image: image(../../Images/city.jpg);
+  background-image: url("../../Images/city.jpg");
 }
