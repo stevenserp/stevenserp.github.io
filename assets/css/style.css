@@ -43,6 +43,7 @@ h2 {
 
 
 #backgroundimage {
+  padding-left: 20px;
   background-image: url("../../Images/crab.jpg");
   align-content: center;
   width: 1000px;
