@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Stardos+Stencil);
+@import url(https://fonts.googleapis.com/css?family=Marvel:400,700);
 
 .col-md-1 {
   border-left: 1px solid black;
@@ -6,12 +7,17 @@
   height: 1080px;
 }
 
-#city {
-  background-image
+.nav navbar-nav {
+font-family: 'Marvel', sans-serif;
+}
+
+header {
+  position: fixed;
 }
 
 h1 {
   font-family: 'Stardos Stencil', cursive;
+
 }
 
 footer {
@@ -24,5 +30,5 @@ h2 {
 
 #contact {
   font-family: 'Stardos Stencil', cursive;
-  
+
 }
