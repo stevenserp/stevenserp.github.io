@@ -45,6 +45,7 @@ h2 {
 #backgroundimage {
   background-image: url("../../Images/crab.jpg");
   align-content: center;
+  margin-bottom: auto;
 }
 
 .text{
