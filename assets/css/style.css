@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Stardos+Stencil);
+
 .col-md-1 {
   border-left: 1px solid black;
   border-right: 1px solid black;
@@ -6,4 +8,16 @@
 
 #city {
   background-image
+}
+
+h1 {
+  font-family: 'Stardos Stencil', cursive;
+}
+
+footer {
+  font-family: 'Stardos Stencil', cursive;
+}
+
+h2 {
+  font-family: 'Stardos Stencil', cursive;
 }
