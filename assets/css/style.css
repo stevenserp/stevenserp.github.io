@@ -40,7 +40,7 @@ h2 {
 }
 
 #self {
-  text-align: left;
+  margin-left: none;
 }
 
 #city{
