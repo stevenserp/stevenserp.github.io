@@ -23,7 +23,7 @@ h1 {
   text-align: center;
   font-family: 'Stardos Stencil', cursive;
   font-size: 40px;
-  
+
 
 }
 
@@ -42,7 +42,7 @@ h2 {
 }
 
 
-#image {
+#backgroundimage {
   background-image: url("../../Images/crab.jpg");
   align-content: center;
 }
