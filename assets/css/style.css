@@ -8,6 +8,7 @@
 }
 
 .navbar-nav {
+  font-size: 20px;
 font-family: 'Marvel', sans-serif;
 }
 
@@ -28,6 +29,6 @@ h2 {
 }
 
 #contact {
-  background-image: url(city.jpg);
   font-family: 'Stardos Stencil', cursive;
+  font-size: 30px;
 }
