@@ -1,12 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Stardos+Stencil);
 @import url(https://fonts.googleapis.com/css?family=Marvel:400,700);
 
-.col-md-1 {
-  border-left: 1px solid black;
-  border-right: 1px solid black;
-  height: 1080px;
-}
-
 #header {
   text-align: center;
   margin-left: auto;
@@ -19,8 +13,6 @@
   font-family: 'Marvel', sans-serif;
 }
 
-header {
-}
 
 h1 {
   font-family: 'Stardos Stencil', cursive;
