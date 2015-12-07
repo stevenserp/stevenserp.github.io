@@ -66,5 +66,8 @@ h2 {
 
 h3 {
   font-family: 'Marvel', sans-serif;
-margin-bottom: 1000px
+  border: white;
+  border-width: 100px;
+  padding-top: 400px;
+
 }
