@@ -45,5 +45,8 @@ h2 {
 
 #image {
   display: block;
+}
 
+.text{
+  text-align: right;
 }
