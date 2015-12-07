@@ -7,14 +7,21 @@
   height: 1080px;
 }
 
-.navbar-nav {
+#header {
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  
+}
+
+.navbar-nav {
   font-size: 20px;
   font-family: 'Marvel', sans-serif;
 }
 
 header {
-  text-align: center;
 }
 
 h1 {
