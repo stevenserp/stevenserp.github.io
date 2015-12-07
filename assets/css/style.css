@@ -23,6 +23,7 @@ h1 {
   text-align: center;
   font-family: 'Stardos Stencil', cursive;
   font-size: 40px;
+  
 
 }
 
@@ -41,10 +42,6 @@ h2 {
 }
 
 
-#city{
-  display: block;
-}
-
 #image {
   background-image: url("../../Images/crab.jpg");
   align-content: center;
@@ -62,4 +59,5 @@ h2 {
 
 #city{
   background-image: url("../../Images/city.jpg");
+  align-content: center;
 }
