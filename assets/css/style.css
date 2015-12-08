@@ -44,7 +44,7 @@ h2 {
 
 #crab {
 align-content: center;
-margin-top: 100px;
+margin-top: 50px;
 margin-bottom: 100px;
 }
 
@@ -55,10 +55,14 @@ margin-bottom: 100px;
 }
 
 #self {
-  padding-right: 125px;
+  padding-right: 200px;
 }
 
 #city{
-  background-image: url("../../Images/city.jpg");
+  margin-top: 50px;
   align-content: center;
+}
+
+.col-md-6 {
+  margin-bottom: 100px;
 }
