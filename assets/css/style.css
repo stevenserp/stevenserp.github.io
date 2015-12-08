@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Marvel:400,700);
 
 #header {
+  background-color: #cccccc;
   font-stretch: extra-expanded;
   text-align: center;
   margin-left: auto;
@@ -12,7 +13,7 @@
 }
 
 .navbar-nav {
-  margin-left: 15px;
+  margin-left: 25px;
   font-size: 25px;
   font-family: 'Marvel', sans-serif;
 }
