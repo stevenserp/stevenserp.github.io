@@ -42,13 +42,8 @@ h2 {
 }
 
 
-#backgroundimage {
-  padding-left: 50px;
-  background-image: url("../../Images/crab.jpg");
-  align-content: center;
-  width: 1000px;
-  height: 820px;
-  font: #FFFFFF;
+#crab {
+margin-bottom: 50px;
 }
 
 .text{
@@ -59,6 +54,7 @@ h2 {
 
 #self {
   margin-right: 50px;
+  padding-right: 100px;
 }
 
 #city{
